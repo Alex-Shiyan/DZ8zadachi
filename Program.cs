@@ -1,49 +1,46 @@
 ﻿//
 // Домашнее задание к занятию 8. Работа с файловой системой
 //
-// Задача 2. Программно создайте текстовый файл и запишите в него 10 случайных чисел. 
-// Затем программно откройте созданный файл, рассчитайте сумму чисел в нем, ответ выведите на консоль.
+// Задача 3. Вручную подготовьте текстовый файл с фрагментом текста. 
+// Напишите программу, которая выводит статистику по файлу - количество символов, строк и слов в тексте. 
+//
 
 using System.IO;
-
-// Создаем текстовый файл с именем "TextFile".
 string path = "TextFile";
-if (! File.Exists(path))
+if (!File.Exists(path))
 {
     File.Create(path);
 }
-// Обнуляем содержимое файла, если там остались какие-то значения
-using (FileStream fs = File.Create(path))
-{
-
-}
-// Записываем в файл 10 случайных чисел в интервале от 0 до 10
-int[] numberN = new int[10];
-Random random = new Random();
-for (int i = 0; i < 10; i++)
-{
-    numberN[i] = random.Next(0,10);
-    using (StreamWriter sw = new StreamWriter(path, true))
-    {
-        sw.WriteLine(numberN[i]);
-    }
-}
-// Считаем сумму чисел
-int sumS = 0;
-int flagF = 0;
 string line;
+int numberL = 0;
+int numberW = 0;
+int numberS = 0;
 using (StreamReader sr = new StreamReader(path))
+{
+    while ((line = sr.ReadLine()) != null)
     {
-        while ((line = sr.ReadLine()) != null)
+        Console.WriteLine(line);
+        if (line.Length > 0)
         {
-            int numberS = Convert.ToInt32(line);
-            flagF ++;
-            Console.WriteLine("Число {0} равно \t {1}", flagF, numberS);
-            sumS = sumS + numberS;
-
+            foreach (char x in line)
+                if (x == ' ')
+                {
+                    numberS++;
+                }
+                else
+                {
+                    numberW++;
+            }
+            numberL++;
         }
 
     }
+}
+
 Console.WriteLine();
-Console.WriteLine("Сумма чисел равна {0} ", sumS);
+Console.WriteLine("Статистика:");
+Console.WriteLine("Количество символов \t {0}", numberS + numberW);
+Console.WriteLine("Количество пробелов \t {0}", numberS);
+Console.WriteLine("Количество строк \t {0}",numberL);
+Console.WriteLine("Количество слов \t {0}", numberS + 1+numberL);
 Console.ReadKey();

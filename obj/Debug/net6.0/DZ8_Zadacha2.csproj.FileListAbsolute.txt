@@ -1,0 +1,15 @@
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\bin\Debug\net6.0\DZ8_Zadacha2.exe
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\bin\Debug\net6.0\DZ8_Zadacha2.deps.json
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\bin\Debug\net6.0\DZ8_Zadacha2.runtimeconfig.json
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\bin\Debug\net6.0\DZ8_Zadacha2.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\bin\Debug\net6.0\ref\DZ8_Zadacha2.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\bin\Debug\net6.0\DZ8_Zadacha2.pdb
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\DZ8_Zadacha2.csproj.AssemblyReference.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\DZ8_Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\DZ8_Zadacha2.AssemblyInfoInputs.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\DZ8_Zadacha2.AssemblyInfo.cs
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\DZ8_Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\DZ8_Zadacha2.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\ref\DZ8_Zadacha2.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\DZ8_Zadacha2.pdb
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8_Zadacha2\obj\Debug\net6.0\DZ8_Zadacha2.genruntimeconfig.cache

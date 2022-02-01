@@ -1,0 +1,15 @@
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\DZ8.csproj.AssemblyReference.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\DZ8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\DZ8.AssemblyInfoInputs.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\DZ8.AssemblyInfo.cs
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\DZ8.csproj.CoreCompileInputs.cache
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\bin\Debug\net6.0\DZ8.exe
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\bin\Debug\net6.0\DZ8.deps.json
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\bin\Debug\net6.0\DZ8.runtimeconfig.json
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\bin\Debug\net6.0\DZ8.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\bin\Debug\net6.0\ref\DZ8.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\bin\Debug\net6.0\DZ8.pdb
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\DZ8.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\ref\DZ8.dll
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\DZ8.pdb
+C:\Users\79168\Dropbox\Мой ПК (LAPTOP-AEGLG3UT)\Desktop\DZ8\obj\Debug\net6.0\DZ8.genruntimeconfig.cache
